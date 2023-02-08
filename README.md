@@ -2,6 +2,8 @@
 
 ### Overview of the statistical analysis
 
+[link to dashboard](https://public.tableau.com/app/profile/anastassia.tatarskaja/viz/Book1_16757380928750/NYCBikeStory?publish=yes)
+
 ## Purpose:
 
 The purpose of this assignment is to create a proposal to convince investors that a bike-sharing program in Des Moines is a solid business. Since one of the key stakeholders requested a bike trip analysis, an analysis of NYC bike sharing was completed along with the NYC Story in Tableau Public as well as report for the final presentation for the investors. 
